@@ -4,7 +4,7 @@
 
 ## 📋 Índice
 
-- [yugioh-jokenpo-edition](#yugioh-jokenpo-edition)
+- [Hotel Basico](#Hotel-Basico)
   - [📋 Índice](#-índice)
   - [📖 Sobre](#-sobre)
   - [🚀 Tecnologias utilizadas](#-tecnologias-utilizadas)
@@ -20,15 +20,15 @@ O sistema funciona de maneira simples, cadastras quartos, alterar para disponive
 <div style="display: flex; gap: 20px;">
   <div style="display: flex; flex-direction: column">
     <h4 style="text-align: center" >Room</h4>
-    <img src="./src/assets/icons/magician2.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
+    <img src="./img/magician2.png" title="Janela de Roon" alt="Janela Roon " height="300px" width="230px">
   </div>
   <div style="display: flex; flex-direction: column">
     <h4 style="text-align: center">Client</h4>
-    <img src="./src/assets/icons/dragon2.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
+    <img src="./src/assets/icons/dragon2.png" title="Janela de cliente" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
   </div>
   <div style="display: flex; flex-direction: column">
     <h4 style="text-align: center">Adminstrator</h4>
-    <img src="./src/assets/icons/exodia2.png" title="Dragão Branco de olhos azuis" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
+    <img src="./img/exodia2.png" title="Janela de Administrador" alt="Carta Dragão Branco de olhos azuis" height="300px" width="230px">
   </div>
 </div>
 <br/>
